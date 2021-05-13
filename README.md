@@ -1,4 +1,4 @@
-# This is a Responsive React Smooth Scroll Web App Using Styled Components
+# This is a Responsive React App Using Styled Components
 
 ##### Styled Components
 ##### Responsive React Website
@@ -15,3 +15,4 @@
 ### Screenshots
 
 ![Screenshot](screenshot1.png)
+![Screenshot](screenshot2.png)
